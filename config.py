@@ -1,0 +1,17 @@
+consumer_key = "CRolI8Irqbt4EJG17Fjmk8wIN"
+consumer_secret = "sNmHMp64wNDgcGvJpZAMTrtpB3uCXSgGvuB7FrmRkC90RJfkks"
+access_token = "1255877471607623687-orJXCdZKeIv2R3lB3D9029jAWAIv4w"
+access_token_secret = "a98alpqjiqy2ubpINunNu7eMg7Xmko09JQQu587oes1Nx"
+sf_username ="heatherjane.moore@gmail.com"
+sf_password ="Tummysink75"
+sf_security_token="2ajf2p5bKC6lzleA4oN9bk6v"
+remote_db_endpoint="database-1.c0crc9bjctkw.us-east-1.rds.amazonaws.com"
+remote_db_port ="3306"
+remote_db_user ='admin'
+remote_db_pwd ='tummysink75'
+remote_db_name ='gwsis'
+local_db_user ='postgres'
+local_db_pwd ='Postgres'
+local_db_endpoint ='localhost'
+local_db_port ='5432'
+local_db_name ='gwsis'
